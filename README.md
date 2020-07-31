@@ -12,3 +12,5 @@ On the left, I nano the .go file I am currently working on
 In the middle, I ran `fswatch -0 . | xargs -0 -n 1 -I {} go test`
 
 On the right, I have the README open to take notes and git
+
+This repo contains my solutions; if you would like to win at life, visit the forked repository and follow the directions there!
